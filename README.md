@@ -1,8 +1,8 @@
-# Vue3 starter kit
+# Art:al Vue 3 Webpage
 
-Arguably the most important parts of an app (authentication and handling payment methods) are also the most repetitive and boring to implement. This starter kit aims to solve that problem by providing a solid foundation for your next Vue3 app.
+Die Idee ist es Vue 3 als Basis für die Webseite zu nehmen, in Kombination mit Strapi als CMS sollen inhaltliche Veränderungen ohne technisches Verständnis durchgeführt werden können. 
 
-![Screenshot](screenshot.png)
+Noch immer aktuell sind folgende Angaben aus dem geklonten Projekt, welches als Basis genutzt wird. 
 
 ## Comes with
 
@@ -12,7 +12,7 @@ Arguably the most important parts of an app (authentication and handling payment
 - [GateKeeper](https://github.com/M-Media-Group/Vue3-GateKeeper) for protecting routes and used in the [ConfirmGate](src/components/modals/ConfirmsGate.vue) component
 - [Meta-Tags](https://github.com/M-Media-Group/Vue3-Meta-Tags) for managing meta tags
 - [i18n](https://github.com/intlify/vue-i18n-next) for internationalization
-- [Google Analytics](https://github.com/MatteoGabriele/vue-gtag) for analytics
+- [Google Analytics](https://github.com/MatteoGabriele/vue-gtag) for analytics (wird entfernt)
 - [PicoCSS](https://picocss.com) for semantic CSS
 
 ## Features
